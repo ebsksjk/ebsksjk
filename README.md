@@ -1,5 +1,5 @@
 ### Hi! 👋
-Dinge, Schulkram und private, kleine Projekte
+Dinge und private, kleine Projekte
 
 <!--
 **ebsksjk/ebsksjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
