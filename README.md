@@ -6,7 +6,7 @@ currently feeling like the [Microsoft Pride Flag](https://github.com/microsoft/P
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebsksjk&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebsksjk&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
